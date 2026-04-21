@@ -4,7 +4,7 @@ Script en Python que extrae direcciones de correo electrónico y comentarios HTM
 
 ## Diagrama del Algoritmo
 
-![Diagrama Web Scraping](https://raw.githubusercontent.com/Hoffman99/reconocimiento_red/main/web-scraping.png)
+![Diagrama Web Scraping](https://github.com/Hoffman99/web-scraping/blob/main/algoritmo_web-scraping.png)
 
 ## Características
 
